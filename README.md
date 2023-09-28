@@ -2,7 +2,6 @@
 - 👀 I’m interested in 3D, AI & Data
 - 🌱 I’m currently learning by doing
 - 💞️ I’m looking to collaborate with great ambitious team
-- 📫 How to reach me : azepoia@gmail.com
 
 <!---
 francoisbonnard/francoisbonnard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
