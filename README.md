@@ -1,9 +1,9 @@
- IIIIIII  AAAAA      AAAAA  IIIIIII
-    I    A     A    A     A    I   
-    I    AAAAAAA    AAAAAAA    I   
-    I    A     A    A     A    I   
- IIIIIII A     A    A     A IIIIIII
-
+```
+IIIIIII AAAAA AAAAA IIIIIII I A A A A I
+I AAAAAAA AAAAAAA I
+I A A A A I
+IIIIIII A A A A IIIIIII
+```
 
 - 👋 Hi, I’m @francoisbonnard
 - 👀 I’m interested in 3D, AI & Data
