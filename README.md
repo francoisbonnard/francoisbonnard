@@ -15,8 +15,6 @@
 `--''          |   |.'                         `--''         '---'              \   \     .'  |   ,.'       
                `---'                                                             `--`-,,-'    '---'                                                                                                                                            
 ```
-
-- 👋 Hi, I’m @francoisbonnard
 - 👀 I’m interested in 3D, AI & Data
 - 🌱 I’m currently learning by doing
 - 💞️ I’m looking to collaborate with great ambitious team
